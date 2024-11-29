@@ -1,5 +1,5 @@
 # Priyam12345
-# Hi 👋 My name is [Priyam Raj]
+# Hi 👋 My name is Priyam Raj
 
 ### Undergrad at IIT Bombay
 
@@ -30,7 +30,7 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam12345-cloud&layout=compact&theme=radical)
 
 ---
 
