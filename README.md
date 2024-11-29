@@ -23,7 +23,7 @@
 ---
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=stars)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyam12345-cloud&show_icons=true&theme=radical&hide=stars)
 
 
 ---
