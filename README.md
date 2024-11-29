@@ -4,7 +4,7 @@
 ### Undergrad at IIT Bombay
 
 - ✉️  You can contact me at [rajpriyam27@gmail.com](mailto:rajpriyam27@gmail.com)
-- 🧠  I'm learning and exploring **Web Technologies**, **Machine Learning** **Flutter Development**, **Deep Reinforcement Learning**, and **Generative AI**.
+- 🧠  I'm learning and exploring **Web Technologies**, **Machine Learning**, **Flutter Development**, **Deep Reinforcement Learning**, and **Generative AI**.
 
 ---
 
