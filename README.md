@@ -23,7 +23,7 @@
 ---
 
 ### 🐍 Watch my contribution snake
-<img src="https://raw.githubusercontent.com/Priyam12345-cloud/Priyam12345-cloud/output/snake.svg" alt="Snake animation" />
+![snake animation](https://raw.githubusercontent.com/Priyam12345-cloud/Priyam12345-cloud/main/snake.svg)
 
 
 ## GitHub Stats
