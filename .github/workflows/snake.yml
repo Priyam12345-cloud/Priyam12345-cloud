@@ -1,26 +1,28 @@
-name: Generate Snake Animation
+name: Update Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight
-  workflow_dispatch: # Allows manual trigger of the workflow
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  push:
+    paths:
+      - 'README.md'
 
 jobs:
-  generate:
+  update-snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository content
-        uses: actions/checkout@v2
+      - name: Check out the repository
+        uses: actions/checkout@v3
 
-      - name: Generate Snake animation
-        uses: Platane/snk@v2
-        with:
-          github_user_name: Priyam12345-cloud
-          outputs: dist/snake.svg
+      - name: Generate Snake Animation
+        run: |
+          curl -o snake.svg https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 
-      - name: Push Snake animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and Push the Updated README
+        run: |
+          git config user.name 'Priyam12345-cloud'
+          git config user.email 'rajpriyam27@gmail.com'
+          git add README.md
+          git commit -m 'Update README with new snake animation'
+          git push origin main
 
