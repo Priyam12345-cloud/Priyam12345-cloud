@@ -1,1 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger of the workflow
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Priyam12345-cloud
+          outputs: dist/snake.svg
+
+      - name: Push Snake animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
 
