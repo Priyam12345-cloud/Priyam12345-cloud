@@ -23,7 +23,7 @@
 ---
 
 ### 🐍 Watch my contribution snake
-![snake animation](https://raw.githubusercontent.com/Priyam12345-cloud/Priyam12345-cloud/main/snake.svg)
+
 ![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
