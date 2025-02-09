@@ -25,7 +25,11 @@
 ### 🐍 Watch my contribution snake
 ![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyam12345-cloud&show_icons=true&theme=radical&hide=stars)
 
+
+---
 
 
 
