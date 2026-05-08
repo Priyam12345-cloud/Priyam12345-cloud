@@ -36,10 +36,4 @@
 
 ---
 
-## 🔝 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam12345-cloud&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam12345-cloud&layout=compact&theme=radical)
