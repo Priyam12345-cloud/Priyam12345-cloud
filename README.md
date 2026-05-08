@@ -25,18 +25,21 @@
 ### 🐍 Watch my contribution snake
 ![snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyam12345-cloud&show_icons=true&theme=radical&hide=stars)
+---
 
+## 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyam12345-cloud&show_icons=true&theme=radical&hide=stars" alt="Priyam's GitHub Stats" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=Priyam12345-cloud&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49%"/>
+</p>
 
 ---
 
+## 🔝 Top Languages
 
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam12345-cloud&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam12345-cloud&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+</p>
 
 ---
-
-
